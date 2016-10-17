@@ -1,0 +1,4 @@
+已经使用过“Wakfu 1.48 汉化方案”的人，把i18n_jp放到Ankama\Wakfu\game\contents\i18n文件夹里，覆盖原有即可。
+
+
+2016-10-17: 修正部分翻译错误
