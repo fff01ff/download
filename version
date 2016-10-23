@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<data nv="2016-10-23" i18n="https://raw.githubusercontent.com/fff01ff/download/master/i18n_jp.jar" ad1="国际服群号 461706053" ad2="亚洲服群号 339286420" param32="" param64=""/>
+<data nv="2016-10-23" i18n="https://raw.githubusercontent.com/fff01ff/download/master/i18n_jp.jar" ad1="国际服群号 461706053" ad2="亚洲服群号 339286420" param32=" -XX:+IgnoreUnrecognizedVMOptions -XX:PermSize=128m -XX:MaxPermSize=128m -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:MaxGCPauseMillis=30 -XX:MaxTenuringThreshold=0 -XX:+UseTLAB -XX:+DoEscapeAnalysis -Dsun.awt.noerasebackground=true -Dsun.java2d.noddraw=true -Djava.net.preferIPv4Stack=true -cp &quot;lib/*&quot;" param64=""/>
