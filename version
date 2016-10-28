@@ -14,6 +14,6 @@ ad3=""
 ad3s="1" 
 ad3e="0" 
 ad3l="" 
-param32=" -XX:+IgnoreUnrecognizedVMOptions -XX:PermSize=128m -XX:MaxPermSize=128m -XX:+UseConcMarkSweepGC -XX:MaxGCPauseMillis=30 -XX:MaxTenuringThreshold=0 -XX:+UseTLAB -XX:+DoEscapeAnalysis -Dsun.awt.noerasebackground=true -Dsun.java2d.noddraw=true -Djava.net.preferIPv4Stack=true -cp &quot;lib/*&quot;" 
+param32=" -XX:+IgnoreUnrecognizedVMOptions -XX:PermSize=128m -XX:MaxPermSize=128m -XX:+UseConcMarkSweepGC -XX:MaxGCPauseMillis=30 -XX:MaxTenuringThreshold=0 -XX:+UseTLAB -XX:+DoEscapeAnalysis -Dsun.awt.noerasebackground=true -Dsun.java2d.noddraw=true -cp &quot;lib/*&quot;" 
 param64=""
 />
