@@ -1,8 +1,0 @@
-﻿凤凰中文,http://zv.3gv.ifeng.com/live/zhongwen.m3u8
-凤凰资讯,http://zv.3gv.ifeng.com/live/zixun.m3u8
-凤凰香港,http://zv.3gv.ifeng.com/live/hongkong.m3u8
-凤凰中文800k,http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8
-凤凰资讯800k,http://zv.3gv.ifeng.com/live/zixun800k.m3u8
-凤凰香港800k,http://zv.3gv.ifeng.com/live/hongkong800k.m3u8
-凤凰资讯HD,http://183.251.61.207/PLTV/88888888/224/3221225901/index.m3u8
-凤凰中文HD,http://183.251.61.207/PLTV/88888888/224/3221225900/index.m3u8
