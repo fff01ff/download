@@ -15,6 +15,6 @@ ad3=""
 ad3s="1" 
 ad3e="0" 
 ad3l="" 
-param32="-XX:+IgnoreUnrecognizedVMOptions -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:MaxGCPauseMillis=30 -XX:MaxTenuringThreshold=0 -XX:+UseTLAB -XX:+DoEscapeAnalysis -Dsun.awt.noerasebackground=true -Dsun.java2d.noddraw=true -Djava.net.preferIPv4Stack=true -d32 -cp lib/*"
-param64="-XX:+IgnoreUnrecognizedVMOptions -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:MaxGCPauseMillis=30 -XX:MaxTenuringThreshold=0 -XX:+UseTLAB -XX:+DoEscapeAnalysis -Dsun.awt.noerasebackground=true -Dsun.java2d.noddraw=true -Djava.net.preferIPv4Stack=true -d64 -XX:+UseCompressedOops -cp lib/*"
+param32="-XX:+IgnoreUnrecognizedVMOptions -XX:+UseConcMarkSweepGC -XX:MaxGCPauseMillis=30 -XX:MaxTenuringThreshold=0 -XX:+UseTLAB -XX:+DoEscapeAnalysis -Dsun.awt.noerasebackground=true -Dsun.java2d.noddraw=true -Djava.net.preferIPv4Stack=true -d32 -cp lib/*"
+param64="-XX:+IgnoreUnrecognizedVMOptions -XX:+UseConcMarkSweepGC -XX:MaxGCPauseMillis=30 -XX:MaxTenuringThreshold=0 -XX:+UseTLAB -XX:+DoEscapeAnalysis -Dsun.awt.noerasebackground=true -Dsun.java2d.noddraw=true -Djava.net.preferIPv4Stack=true -d64 -XX:+UseCompressedOops -cp lib/*"
 />
