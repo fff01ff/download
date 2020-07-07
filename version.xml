@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <data 
 nlv="v2.1.6"
-ch="200613.2250"
-jp="200613.2250"
+ch="200707.2303"
+jp="200707.2303"
 tw="200603.1833"
 cs="200624.0413"
 member="(Alice、Mountaintop、Satila、星尘、木板、右木、崔羊羊、叶柠、满满、随意简单、Murphy_Chan、阿兹、弃坑、Cyz、嗨总、BP、枕头、Sour) 和 历任汉化作者们"
