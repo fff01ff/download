@@ -1,1 +1,1 @@
-# This is a chinese translate file for wakfu.
+# Wakfu Chinese translation launcher.
