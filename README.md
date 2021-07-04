@@ -1,1 +1,1 @@
-# Wakfu Chinese translation launcher.
+# Wakfu Chinese Launcher.
