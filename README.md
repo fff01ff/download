@@ -1,1 +1,1 @@
-# Wakfu Chinese Launcher.
+# Wakfu Chinese Launcher
