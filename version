@@ -2,9 +2,9 @@
 <data 
 app="1.0.8.3"
 nlv="2.4.8.1"
-ch="251226.1434"
-jp="251226.1434"
-tw="251226.0920"
+ch="260106.2109"
+jp="260106.2109"
+tw="260106.2039"
 cs="240531.2010"
 member="(Alice、Mountaintop、Satila、木板、右木、崔羊羊、叶柠、满满、随意简单、Murphy_Chan、阿兹、弃坑、Cyz、嗨总、BP、枕头、Sour、希凌、Cthugha) 和 历任汉化作者们"
 web="Ankama官网 https://ankama.com;Wakfu官网 https://wakfu.com;沃土中文站 https://wakfu.cc;沃沃查 https://musicup.love;Cyz https://cyomega.github.io/wakfu;盐十汽水 https://pan.layah.tk;WAKFU真好玩 微信公众号;沃土贴吧 https://tieba.baidu.com/f?kw=%E6%B2%83%E5%9C%9F;Zenith https://zenithwakfu.com"
@@ -19,6 +19,7 @@ ad3e="0"
 ad3l="" 
 param="-XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -Dsun.awt.noerasebackground=true -Dsun.java2d.noddraw=true -Djava.net.preferIPv4Stack=true -Djogl.disable.openglarbcontext"
 />
+
 
 
 
